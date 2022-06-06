@@ -2,7 +2,6 @@
 ***
 ### 我是廖海清
 ### 厦门理工学院
-### 今年23了哈，在读研二
 
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=Agiroy4712.Agiroy4712)
 
